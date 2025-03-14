@@ -1,4 +1,4 @@
-- 👋 Hi, I am @qfyin666 and received my Ph.D. in computational magnetohydrodynamics from the University of Hong Kong in 2023
+- 👋 Hi, I am @qfyin666 and received my Ph.D. in Computational Magneto-hydrodynamics from the University of Hong Kong in 2023
 - 👀 I’m interested in Physics, AI and how human think
 - 🌱 I’m currently learning world model
 - 💞️ I’m looking to collaborate on embodied AI
